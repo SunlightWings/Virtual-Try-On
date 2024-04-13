@@ -17,6 +17,6 @@ Pitfalls:
 2. Copy the result of GMM module: "warp-cloth and "warp-mask" folders into "data/train" directory. This will be used to train the TOM as mentioned in Step 4.a above
 3. For testing your custom images, resize them to 192x256 pixels, and obtain image-parse, cloth mask and pose(keypoints)
 
-All credit goes to:
+Credit for 2d goes to:
 1. https://minar09.github.io/cpvtonplus/cvprw20_cpvtonplus.pdf
 2. https://minar09.github.io/cpvtonplus/
