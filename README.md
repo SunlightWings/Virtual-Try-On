@@ -1,4 +1,4 @@
-[Complete Code base not maintained yet]
+[Complete Code base not maintained yet, this is just for a rough record of the files.]
 
 Implementation on CP-VITON-PLUS dataset, extended for 3D reconstruction from single 2D image
 [Dataset](https://1drv.ms/u/s!Ai8t8GAHdzVUiQRFmTPrtrAy0ZP5?e=rS1aK8) 
